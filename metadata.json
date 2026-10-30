@@ -1,0 +1,6 @@
+{
+  "name": "mychat",
+  "description": "Professional real-time messaging, audio/video calling, status stories, groups, communities, and business tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
